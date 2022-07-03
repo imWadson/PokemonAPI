@@ -1,4 +1,4 @@
-# ExMon
+# PokemonAPI(ExMon)
 
 To start your Phoenix server:
 
